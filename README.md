@@ -30,10 +30,13 @@ The data set we used had not existed before and we prepared it using some bio se
 
 ## Final Results
 
-![Generated Molecules From WGAN model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/c0b54af8-6b8e-4d8c-9859-0045c5a9736c)
 Generated Molecules From WGAN model
-![Generated Molecules From VAE model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/f4c67f2f-a2fb-4dfe-9381-271bba0c21e0)
+
+![Generated Molecules From WGAN model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/c0b54af8-6b8e-4d8c-9859-0045c5a9736c)
+
 Generated Molecules From VAE model
+
+![Generated Molecules From VAE model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/f4c67f2f-a2fb-4dfe-9381-271bba0c21e0)
 
 ## References
 - [DeepChem Documentation](https://deepchem.readthedocs.io/en/latest/api_reference/models.html#basicmolganmod)
