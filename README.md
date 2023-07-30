@@ -30,6 +30,10 @@ The data set we used had not existed before and we prepared it using some bio se
 
 ## Final Results
 
+Generated SMILES From WGAN model
+
+![Generated SMILES From WGAN model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/1e96670b-9c70-4fc6-80b0-ce3f17b5915c)
+
 Generated Molecules From WGAN model
 
 ![Generated Molecules From WGAN model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/c0b54af8-6b8e-4d8c-9859-0045c5a9736c)
