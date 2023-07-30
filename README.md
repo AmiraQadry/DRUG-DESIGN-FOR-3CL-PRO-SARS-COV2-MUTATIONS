@@ -14,7 +14,7 @@ The aim of this project is to find drug candidates (ligand) with a high binding 
 
 3. Generate Ligands as Graphs and SMILES
 
-Use VAE ![Variational autoencoder](https://en.wikipedia.org/wiki/Variational_autoencoder) and WGAN ![Wasserstein Generative Adversarial Network](https://en.wikipedia.org/wiki/Wasserstein_GAN) models, generating molecules that are structurally similar to potential protease inhibitors of COVID-19.
+Use VAE [Variational autoencoder](https://en.wikipedia.org/wiki/Variational_autoencoder) and WGAN [Wasserstein Generative Adversarial Network](https://en.wikipedia.org/wiki/Wasserstein_GAN) models, generating molecules that are structurally similar to potential protease inhibitors of COVID-19.
 
 ## Requirements
 This model is built using Python as programming language, Google Colab as an Environment, and utilizes the following packages:
@@ -29,12 +29,14 @@ This model is built using Python as programming language, Google Colab as an Env
 The data set we used had not existed before and we prepared it using some bio servers like I-Tasser, HDock, Ligann, and programms like Discovery Studio Biovia and Auto Dock.
 
 ## Final Results
-![Generated Molecules From WGAN model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/c0b54af8-6b8e-4d8c-9859-0045c5a9736c)
 
+![Generated Molecules From WGAN model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/c0b54af8-6b8e-4d8c-9859-0045c5a9736c)
+Generated Molecules From WGAN model
 ![Generated Molecules From VAE model](https://github.com/AmiraQadry/DRUG-DESIGN-FOR-3CL-PRO-SARS-COV2-MUTATIONS/assets/106974489/f4c67f2f-a2fb-4dfe-9381-271bba0c21e0)
+Generated Molecules From VAE model
 
 ## References
-![DeepChem Documentation](https://deepchem.readthedocs.io/en/latest/api_reference/models.html#basicmolganmod)
-![MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973)
-![Drug development](https://en.wikipedia.org/wiki/Drug_development)
-![WGAN-GP with R-GCN for the generation of small molecular graphs](https://keras.io/examples/generative/wgan-graphs/)
+- [DeepChem Documentation](https://deepchem.readthedocs.io/en/latest/api_reference/models.html#basicmolganmod)
+- [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973)
+- [Drug development](https://en.wikipedia.org/wiki/Drug_development)
+- [WGAN-GP with R-GCN for the generation of small molecular graphs](https://keras.io/examples/generative/wgan-graphs/)
