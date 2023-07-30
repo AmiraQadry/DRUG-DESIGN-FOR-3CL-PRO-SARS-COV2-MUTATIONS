@@ -12,12 +12,12 @@ The aim of this project is to find drug candidates (ligand) with a high binding 
 
 2. Dataset preparation
 
-3. Generate SMILES strings
+3. Generate Ligands as Graphs and SMILES
 
 Use VAE and WGAN models, generating molecules that are structurally similar to potential protease inhibitors of COVID-19.
 
 ## Requirements
-This model is built using Python, and utilizes the following packages:
+This model is built using Python as programming language, Google Colab as an Environment, and utilizes the following packages:
 
 - Numpy
 - RDKit
